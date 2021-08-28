@@ -1,0 +1,11 @@
+Program Start--> task1.3 
+set 45565 to a
+init b
+set 0 to b
+calculate b as a multiply 18 divide 100
+double result
+set o to c
+init c
+calculate c as double result multiply 3 divide 100
+show result
+End Program

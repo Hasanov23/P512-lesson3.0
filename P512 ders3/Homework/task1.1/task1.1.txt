@@ -1,0 +1,18 @@
+program  start/--> task 1.0
+
+set 9889 to a
+init b
+set 70000 to b
+init c
+set o to c
+calculate c as b add a
+init d
+set o to d
+calculate d multiply 10
+init result
+calculate result as d add 8
+
+show result 798898
+
+/end program
+

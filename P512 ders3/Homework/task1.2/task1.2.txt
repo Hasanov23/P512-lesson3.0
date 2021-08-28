@@ -1,0 +1,13 @@
+Program Start/ -->task 1.2
+set 555 to a
+init b
+set o to b
+calculate b multiply 1000
+init c
+set 0 to c
+init result
+calculate result as c add b
+
+show result 555555
+
+End Program
